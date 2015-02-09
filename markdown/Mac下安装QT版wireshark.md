@@ -19,3 +19,16 @@ OSX 安装 QT 版 wireshark
 	```
 	brew reinstall wireshark --with-qt
 	```
+### 使用方法
+* 如果你只是想打开包分析，请执行
+	
+	```
+	wireshark-qt
+	```
+	
+* 如果你想抓包分析，请执行
+
+	```
+	sudo wireshark-qt
+	```
+
