@@ -4,3 +4,9 @@ OSX 使用技巧
 ```bash
 xattr -cr /Applications/BetterZip.app/
 ```
+
+### 2. OSX 10.12 Home End 键
+```bash
+Home : Command + Left Array
+End  : Command + Right Array
+```
