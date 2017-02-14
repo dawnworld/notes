@@ -10,3 +10,13 @@ xattr -cr /Applications/BetterZip.app/
 Home : Command + Left Array
 End  : Command + Right Array
 ```
+
+### 3. OSX Sublime Text3 从命令行启动
+修改 ~/.bash_profile
+```bash
+# edit ~/.bash_profile
+alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
+
+# after edit
+. ~/.bash_profile
+```
